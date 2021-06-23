@@ -1,1 +1,1 @@
-# linear_regression
+this uses the dataset to define relation between temprature - pressure and temprature - humidity thus using only real time temprature(independent) to predict the pressure(dependent) and humidity(dependent) and thus later uses all three to predict the weather using naive bayes model (weather prediction repository) all in real time.
